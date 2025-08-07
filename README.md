@@ -79,7 +79,7 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=emmanual-thomas&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>

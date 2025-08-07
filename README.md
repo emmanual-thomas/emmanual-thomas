@@ -88,4 +88,3 @@
 
 ---
 
-Let me know if you want to add your personal projects (like your blog app), contribution streak, or visitors badge too!

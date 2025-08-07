@@ -6,7 +6,7 @@
 - 🌱 I’m currently diving deeper into:
   - 🤖 Deep Learning & LLMs (Large Language Models)
   - 🧠 Generative AI & Agents
-  - 🧪 Kaggle Experiments
+  - 🧠🧾 KAG (Knowledge-Augmented Generation)
   - 🦜 LangChain + Vector Databases
 
 - 📫 Reach me at: **emmanualpurayidathil@gmail.com**
